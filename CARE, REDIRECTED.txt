@@ -5,9 +5,3 @@ Created by Claudius Fanusie.
 Timestamp record created before public posting.
 
 Date: 04 May 2026
-Algorithm       Hash                                                                   Path
----------       ----                                                                   ----
-SHA256          88051E252CC3AD0DF5BAEE50C104AF47A5B261462EE855ED1A47C4B34389A4AF       D:\Dropbox\my work\Projects\2...
-
-
-PS C:\Users\User>
